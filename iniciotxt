@@ -1,0 +1,11 @@
+inicia con 
+
+cd pterodactyl
+
+cd wings
+
+docker-compose up -d 
+
+y luego en otra consola 
+
+ngrok tunnel --label edge=edghts_2veDPm2L4IWVtnToTNR5UcHi3Lr http://localhost:443
