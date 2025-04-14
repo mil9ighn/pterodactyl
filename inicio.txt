@@ -1,0 +1,14 @@
+inicia con 
+
+cd pterodactyl
+
+cd panel
+
+docker-compose up -d 
+
+gh codespace ports visibility 80:public -c $CODESPACE_NAME
+
+
+
+
+
